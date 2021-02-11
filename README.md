@@ -1,2 +1,2 @@
 # SolveWithD
-I push solutions to the coading problems that I solve everyday. 
+I push solutions to the coding problems that I solve everyday. 
